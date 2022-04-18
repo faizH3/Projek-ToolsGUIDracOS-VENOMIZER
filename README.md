@@ -2,4 +2,4 @@
 ---
 library
 ---
-- python3-tk
+- python3-tk(tkinter)
